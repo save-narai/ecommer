@@ -175,19 +175,19 @@
             <div class="content">
          
             </div>
-            <img src="image/promoropa1.png" alt="article-cover" />
+            <img src="image/save1.png" alt="article-cover" />
         </div>
         <div class="article-card">
             <div class="content">
             
             </div>
-            <img src="image/promo3.png" alt="article-cover" />
+            <img src="image/save2.png" alt="article-cover" />
         </div>
         <div class="article-card">
             <div class="content">
                
             </div>
-            <img src="image/promo2.png" alt="article-cover" />
+            <img src="image/save3.png" alt="article-cover" />
         </div>
         <!-- Agrega más tarjetas según sea necesario -->
     </div>
